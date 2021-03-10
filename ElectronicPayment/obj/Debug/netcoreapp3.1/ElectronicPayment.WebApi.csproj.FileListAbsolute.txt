@@ -1,0 +1,5 @@
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment\obj\Debug\netcoreapp3.1\ElectronicPayment.WebApi.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment\obj\Debug\netcoreapp3.1\ElectronicPayment.WebApi.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment\obj\Debug\netcoreapp3.1\ElectronicPayment.WebApi.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment\obj\Debug\netcoreapp3.1\ElectronicPayment.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment\obj\Debug\netcoreapp3.1\ElectronicPayment.WebApi.MvcApplicationPartsAssemblyInfo.cache

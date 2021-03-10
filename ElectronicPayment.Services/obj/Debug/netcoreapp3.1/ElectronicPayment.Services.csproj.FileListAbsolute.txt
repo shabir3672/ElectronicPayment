@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Services\bin\Debug\netcoreapp3.1\ElectronicPayment.Services.deps.json
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Services\bin\Debug\netcoreapp3.1\ElectronicPayment.Services.dll
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Services\bin\Debug\netcoreapp3.1\ElectronicPayment.Services.pdb
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Services\bin\Debug\netcoreapp3.1\ElectronicPayment.Gateways.dll
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Services\bin\Debug\netcoreapp3.1\ElectronicPayment.Models.DTO.dll
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Services\bin\Debug\netcoreapp3.1\ElectronicPayment.Models.Entity.dll
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Services\bin\Debug\netcoreapp3.1\ElectronicPayment.Gateways.pdb
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Services\bin\Debug\netcoreapp3.1\ElectronicPayment.Models.DTO.pdb
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Services\bin\Debug\netcoreapp3.1\ElectronicPayment.Models.Entity.pdb
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Services\obj\Debug\netcoreapp3.1\ElectronicPayment.Services.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Services\obj\Debug\netcoreapp3.1\ElectronicPayment.Services.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Services\obj\Debug\netcoreapp3.1\ElectronicPayment.Services.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Services\obj\Debug\netcoreapp3.1\ElectronicPayment.Services.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Services\obj\Debug\netcoreapp3.1\ElectronicPayment.Services.csproj.CopyComplete
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Services\obj\Debug\netcoreapp3.1\ElectronicPayment.Services.dll
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Services\obj\Debug\netcoreapp3.1\ElectronicPayment.Services.pdb

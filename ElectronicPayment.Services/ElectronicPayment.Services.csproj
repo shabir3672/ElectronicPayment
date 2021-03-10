@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ElectronicPayment.Gateways\ElectronicPayment.Gateways.csproj" />
+    <ProjectReference Include="..\ElectronicPayment.Models.DTO\ElectronicPayment.Models.DTO.csproj" />
+    <ProjectReference Include="..\ElectronicPayment.Models.Entity\ElectronicPayment.Models.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

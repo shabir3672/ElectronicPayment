@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Models.Entity\bin\Debug\netcoreapp3.1\ElectronicPayment.Models.Entity.deps.json
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Models.Entity\bin\Debug\netcoreapp3.1\ElectronicPayment.Models.Entity.dll
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Models.Entity\bin\Debug\netcoreapp3.1\ElectronicPayment.Models.Entity.pdb
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Models.Entity\obj\Debug\netcoreapp3.1\ElectronicPayment.Models.Entity.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Models.Entity\obj\Debug\netcoreapp3.1\ElectronicPayment.Models.Entity.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Models.Entity\obj\Debug\netcoreapp3.1\ElectronicPayment.Models.Entity.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Models.Entity\obj\Debug\netcoreapp3.1\ElectronicPayment.Models.Entity.dll
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Models.Entity\obj\Debug\netcoreapp3.1\ElectronicPayment.Models.Entity.pdb
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Models.Entity\bin\Debug\netcoreapp3.1\ElectronicPayment.Models.Entity.runtimeconfig.json
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Models.Entity\bin\Debug\netcoreapp3.1\ElectronicPayment.Models.Entity.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Models.Entity\obj\Debug\netcoreapp3.1\ElectronicPayment.Models.Entity.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Models.Entity\obj\Debug\netcoreapp3.1\ElectronicPayment.Models.Entity.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Models.DTO\bin\Debug\netcoreapp3.1\ElectronicPayment.Models.DTO.deps.json
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Models.DTO\bin\Debug\netcoreapp3.1\ElectronicPayment.Models.DTO.dll
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Models.DTO\bin\Debug\netcoreapp3.1\ElectronicPayment.Models.DTO.pdb
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Models.DTO\obj\Debug\netcoreapp3.1\ElectronicPayment.Models.DTO.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Models.DTO\obj\Debug\netcoreapp3.1\ElectronicPayment.Models.DTO.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Models.DTO\obj\Debug\netcoreapp3.1\ElectronicPayment.Models.DTO.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Models.DTO\obj\Debug\netcoreapp3.1\ElectronicPayment.Models.DTO.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Models.DTO\obj\Debug\netcoreapp3.1\ElectronicPayment.Models.DTO.dll
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Models.DTO\obj\Debug\netcoreapp3.1\ElectronicPayment.Models.DTO.pdb

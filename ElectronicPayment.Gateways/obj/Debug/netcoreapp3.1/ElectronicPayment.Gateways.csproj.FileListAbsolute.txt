@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Gateways\bin\Debug\netcoreapp3.1\ElectronicPayment.Gateways.deps.json
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Gateways\bin\Debug\netcoreapp3.1\ElectronicPayment.Gateways.dll
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Gateways\bin\Debug\netcoreapp3.1\ElectronicPayment.Gateways.pdb
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Gateways\bin\Debug\netcoreapp3.1\ElectronicPayment.Models.DTO.dll
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Gateways\bin\Debug\netcoreapp3.1\ElectronicPayment.Models.DTO.pdb
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Gateways\obj\Debug\netcoreapp3.1\ElectronicPayment.Gateways.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Gateways\obj\Debug\netcoreapp3.1\ElectronicPayment.Gateways.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Gateways\obj\Debug\netcoreapp3.1\ElectronicPayment.Gateways.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Gateways\obj\Debug\netcoreapp3.1\ElectronicPayment.Gateways.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Gateways\obj\Debug\netcoreapp3.1\ElectronicPayment.Gateways.csproj.CopyComplete
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Gateways\obj\Debug\netcoreapp3.1\ElectronicPayment.Gateways.dll
+C:\Users\DELL\source\repos\ElectronicPayment\ElectronicPayment.Gateways\obj\Debug\netcoreapp3.1\ElectronicPayment.Gateways.pdb

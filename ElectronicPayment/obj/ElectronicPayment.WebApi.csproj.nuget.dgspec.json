@@ -1,0 +1,361 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment\\ElectronicPayment.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Gateways\\ElectronicPayment.Gateways.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Gateways\\ElectronicPayment.Gateways.csproj",
+        "projectName": "ElectronicPayment.Gateways",
+        "projectPath": "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Gateways\\ElectronicPayment.Gateways.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Gateways\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Models.DTO\\ElectronicPayment.Models.DTO.csproj": {
+                "projectPath": "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Models.DTO\\ElectronicPayment.Models.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Models.DTO\\ElectronicPayment.Models.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Models.DTO\\ElectronicPayment.Models.DTO.csproj",
+        "projectName": "ElectronicPayment.Models.DTO",
+        "projectPath": "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Models.DTO\\ElectronicPayment.Models.DTO.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Models.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Models.Entity\\ElectronicPayment.Models.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Models.Entity\\ElectronicPayment.Models.Entity.csproj",
+        "projectName": "ElectronicPayment.Models.Entity",
+        "projectPath": "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Models.Entity\\ElectronicPayment.Models.Entity.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Models.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Services\\ElectronicPayment.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Services\\ElectronicPayment.Services.csproj",
+        "projectName": "ElectronicPayment.Services",
+        "projectPath": "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Services\\ElectronicPayment.Services.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Gateways\\ElectronicPayment.Gateways.csproj": {
+                "projectPath": "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Gateways\\ElectronicPayment.Gateways.csproj"
+              },
+              "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Models.DTO\\ElectronicPayment.Models.DTO.csproj": {
+                "projectPath": "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Models.DTO\\ElectronicPayment.Models.DTO.csproj"
+              },
+              "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Models.Entity\\ElectronicPayment.Models.Entity.csproj": {
+                "projectPath": "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Models.Entity\\ElectronicPayment.Models.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment\\ElectronicPayment.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment\\ElectronicPayment.WebApi.csproj",
+        "projectName": "ElectronicPayment.WebApi",
+        "projectPath": "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment\\ElectronicPayment.WebApi.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Gateways\\ElectronicPayment.Gateways.csproj": {
+                "projectPath": "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Gateways\\ElectronicPayment.Gateways.csproj"
+              },
+              "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Models.DTO\\ElectronicPayment.Models.DTO.csproj": {
+                "projectPath": "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Models.DTO\\ElectronicPayment.Models.DTO.csproj"
+              },
+              "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Models.Entity\\ElectronicPayment.Models.Entity.csproj": {
+                "projectPath": "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Models.Entity\\ElectronicPayment.Models.Entity.csproj"
+              },
+              "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Services\\ElectronicPayment.Services.csproj": {
+                "projectPath": "C:\\Users\\DELL\\source\\repos\\ElectronicPayment\\ElectronicPayment.Services\\ElectronicPayment.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
